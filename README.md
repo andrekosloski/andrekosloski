@@ -13,4 +13,4 @@
   <img align="center" alt="André Kosloski" height="26" width="57" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
   
 </div>
-<div>![Snake animation](https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg)</div>
+<div>[Snake animation](https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg)</div>
