@@ -1,6 +1,6 @@
 # 👋 André Kosloski
 
-Sou desenvolvedor Full Stack e entusiasta em Flutter! 🇧🇷 
+Desenvolvedor Full Stack morando no interior do Paraná 🇧🇷, atuou com aplicações mobiles e middlewares.
 
  <div style="display: inline_block" align="center"><br>
   <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">
