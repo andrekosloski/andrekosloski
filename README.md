@@ -1,6 +1,6 @@
 # 👋 André Kosloski
 
-Desenvolvedor Full Stack morando no interior do Paraná 🇧🇷, atuou com aplicações mobiles e middlewares.
+Desenvolvedor Full Stack morando no interior do Paraná 🇧🇷, atuo com aplicações mobiles e middlewares.
 
  <div style="display: inline_block" align="center"><br>
   <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">
