@@ -1,12 +1,7 @@
-# 👋 André Kosloski
+Olá! Me chamo André Kosloski, sou desenvolvedor Full Stack e trabalho principalmente com mobile e middleware. Atualmente a lingaguem que mais gosto de codar é o Dart seguido do Kotlin, indiferente da linguagem sou apaixonado por desenvolver soluções.
 
-Sou desenvolvedor Full Stack atuo principalmente em aplicações mobiles e middlewares.
 
- <div style="display: inline_block" align="center"><br>
-  <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">
-</div>
-
-## 🔨 Tecnologias e ferramentas
+## 🔨 Desenvolvendo
 <div style="display: inline_block" align="center"><br>
   <img align="center" src="https://img.shields.io/badge/HTML-Code-green?logo=HTML5">
   <img align="center" src="https://img.shields.io/badge/PHP-Code-green?logo=php&Senior">
@@ -29,4 +24,21 @@ Sou desenvolvedor Full Stack atuo principalmente em aplicações mobiles e middl
   <img align="center" src="https://img.shields.io/badge/Windows-SO-yellowgreen?logo=Windows">
   <img align="center" src="https://img.shields.io/badge/Android-SO-yellowgreen?logo=Android">
   <img align="center" src="https://img.shields.io/badge/WEB-SO-yellowgreen?logo=Firefox Browser">
+</div>
+
+ <div style="display: inline_block" align="center"><br>
+  <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+
+## 📖 Aprendendo
+<div style="display: inline_block" align="center"><br>
+  <img align="center" src="https://img.shields.io/badge/question-MongoDB-blue">
+  <img align="center" src="https://img.shields.io/badge/study-Web Socket-blue">
+  <img align="center" src="https://img.shields.io/badge/observant-Google Vision-blue">
+</div>
+
+## 👻 Refletindo
+<div style="display: inline_block" align="center"><br>
+ Não deveríamos estar buscando heróis, deveríamos estar buscando boas ideias. - Noam Chomsky
 </div>
