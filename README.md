@@ -1,4 +1,4 @@
-Olá! Sou desenvolvedor Full Stack e trabalho principalmente com mobile e middleware. Atualmente a lingaguem que mais gosto de codar é o Dart seguido do Kotlin, indiferente da linguagem sou apaixonado por desenvolver soluções.
+Olá! Sou desenvolvedor Full Stack e trabalho principalmente com mobile e middleware. Apaixonado por desenvolver soluções.
 
 
 ## 🔨 Desenvolvendo
