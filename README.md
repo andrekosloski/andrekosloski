@@ -1,4 +1,4 @@
-Olá! Sou desenvolvedor Full Stack e trabalho principalmente com mobile e middleware, sou apaixonado por desenvolver soluções.
+Olá! Sou desenvolvedor Full Stack fascinado pelo desevolvimento mobile e middleware. Autodidata atuo profissionalmente a mais de 7 anos com tecnologia da informação.  
 
 
 ## 🔨 Desenvolvendo
@@ -22,7 +22,6 @@ Olá! Sou desenvolvedor Full Stack e trabalho principalmente com mobile e middle
   <img align="center" src="https://img.shields.io/badge/Debian-SO-yellowgreen?logo=Debian">
   <img align="center" src="https://img.shields.io/badge/Windows-SO-yellowgreen?logo=Windows">
   <img align="center" src="https://img.shields.io/badge/Android-SO-yellowgreen?logo=Android">
-  <img align="center" src="https://img.shields.io/badge/WEB-SO-yellowgreen?logo=Firefox Browser">
 </div>
 
  <div style="display: inline_block" align="center"><br>
@@ -32,9 +31,9 @@ Olá! Sou desenvolvedor Full Stack e trabalho principalmente com mobile e middle
 
 ## 📖 Aprendendo
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://img.shields.io/badge/question-MongoDB-blue">
-  <img align="center" src="https://img.shields.io/badge/study-Web Socket-blue">
-  <img align="center" src="https://img.shields.io/badge/observant-Google Vision-blue">
+  <img align="center" src="https://img.shields.io/badge/question-Hive NoSQL Database-blue">
+  <img align="center" src="https://img.shields.io/badge/study-Unit Tests-blue">
+  <img align="center" src="https://img.shields.io/badge/observant-Blockchain Technology-blue">
 </div>
 
 ## 👻 Refletindo
