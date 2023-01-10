@@ -18,14 +18,13 @@ Desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 9 anos em 
 </div>
 
 
-## 📖 Aprendendo
+## 📖 Aperfeiçoando
 <div style="display: inline_block" align="center"><br>
   <img align="center" src="https://img.shields.io/badge/question-Rede neural-orange">
   <img align="center" src="https://img.shields.io/badge/study-Deep Learning-orange">
   <img align="center" src="https://img.shields.io/badge/observant-AGI-orange">
 </div>
 
-## 👻 Refletindo
 <div style="display: inline_block" align="center"><br>
  Uma pessoa que nunca cometeu um erro nunca tentou nada de novo.
 </div>
