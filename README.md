@@ -1,27 +1,20 @@
-Olá! Sou desenvolvedor Full Stack fascinado pelo desevolvimento mobile e middleware. Autodidata atuo profissionalmente a mais de 7 anos com tecnologia da informação.  
+Olá! Sou desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 9 anos em aplicações integradas.  
 
 
 ## 🔨 Desenvolvendo
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://img.shields.io/badge/HTML-Code-green?logo=HTML5">
-  <img align="center" src="https://img.shields.io/badge/PHP-Code-green?logo=php&Senior">
-  <img align="center" src="https://img.shields.io/badge/FLUTTER-Code-green?logo=FLUTTER">
-  <img align="center" src="https://img.shields.io/badge/KOTLIN-Code-green?logo=KOTLIN">
-  <img align="center" src="https://img.shields.io/badge/VUE-Code-green?logo=Vue.js">
-  <img align="center" src="https://img.shields.io/badge/DART-Code-green?logo=DART">
+  <img align="center" src="https://img.shields.io/badge/PHP-Senior-green?logo=php">
+  <img align="center" src="https://img.shields.io/badge/FLUTTER-Pleno-green?logo=FLUTTER">
+  <img align="center" src="https://img.shields.io/badge/KOTLIN-Junior-green?logo=KOTLIN">
+  <img align="center" src="https://img.shields.io/badge/VUE-Junior-green?logo=Vue.js">
   <br>
-  <img align="center" src="https://img.shields.io/badge/MySQL-Database-blue?logo=MySQL">
-  <img align="center" src="https://img.shields.io/badge/PgSQL-Database-blue?logo=PostgreSQL">
-  <img align="center" src="https://img.shields.io/badge/SQLite-Database-blue?logo=SQLite">
+  <img align="center" src="https://img.shields.io/badge/MySQL-blue?logo=MySQL">
+  <img align="center" src="https://img.shields.io/badge/PgSQL-blue?logo=PostgreSQL">
+  <img align="center" src="https://img.shields.io/badge/SQLite-blue?logo=SQLite">
   <br>
-  <img align="center" src="https://img.shields.io/badge/Git-Tools-yellow?logo=Git">
   <img align="center" src="https://img.shields.io/badge/Docker-Tools-yellow?logo=Docker">
-  <img align="center" src="https://img.shields.io/badge/Visual Code-IDE-yellow?logo=Visual Studio Code">
-  <img align="center" src="https://img.shields.io/badge/IntelliJ-IDE-yellow?logo=IntelliJ IDEA">
-    <br>
-  <img align="center" src="https://img.shields.io/badge/Debian-SO-yellowgreen?logo=Debian">
-  <img align="center" src="https://img.shields.io/badge/Windows-SO-yellowgreen?logo=Windows">
-  <img align="center" src="https://img.shields.io/badge/Android-SO-yellowgreen?logo=Android">
+  <img align="center" src="https://img.shields.io/badge/Visual-yellow?logo=Visual Studio Code">
+  <img align="center" src="https://img.shields.io/badge/IntelliJ-yellow?logo=IntelliJ IDEA">
 </div>
 
  <div style="display: inline_block" align="center"><br>
@@ -31,12 +24,12 @@ Olá! Sou desenvolvedor Full Stack fascinado pelo desevolvimento mobile e middle
 
 ## 📖 Aprendendo
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://img.shields.io/badge/question-Hive NoSQL Database-blue">
-  <img align="center" src="https://img.shields.io/badge/study-Unit Tests-blue">
-  <img align="center" src="https://img.shields.io/badge/observant-Blockchain Technology-blue">
+  <img align="center" src="https://img.shields.io/badge/question Rede neural">
+  <img align="center" src="https://img.shields.io/badge/study Deep Learning">
+  <img align="center" src="https://img.shields.io/badge/observant AGI">
 </div>
 
 ## 👻 Refletindo
 <div style="display: inline_block" align="center"><br>
- Não deveríamos estar buscando heróis, deveríamos estar buscando boas ideias. - Noam Chomsky
+ Uma pessoa que nunca cometeu um erro nunca tentou nada de novo.
 </div>
