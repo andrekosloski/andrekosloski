@@ -20,9 +20,9 @@ Desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 9 anos em 
 
 ## 📖 Aprendendo
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://img.shields.io/badge/question-Rede neural">
-  <img align="center" src="https://img.shields.io/badge/study-Deep Learning">
-  <img align="center" src="https://img.shields.io/badge/observant-AGI">
+  <img align="center" src="https://img.shields.io/badge/question-Rede neural-orange">
+  <img align="center" src="https://img.shields.io/badge/study-Deep Learning-orange">
+  <img align="center" src="https://img.shields.io/badge/observant-AGI-orange">
 </div>
 
 ## 👻 Refletindo
