@@ -3,10 +3,10 @@ Desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 9 anos em 
 
 ## 🔨 Desenvolvendo
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://img.shields.io/badge/PHP-Senior-yellowgreen?logo=php">
-  <img align="center" src="https://img.shields.io/badge/FLUTTER-Pleno-green?logo=FLUTTER">
-  <img align="center" src="https://img.shields.io/badge/KOTLIN-Junior-green?logo=KOTLIN">
-  <img align="center" src="https://img.shields.io/badge/VUE-Junior-green?logo=Vue.js">
+  <img align="center" src="https://img.shields.io/badge/PHP-Senior-green?logo=php">
+  <img align="center" src="https://img.shields.io/badge/FLUTTER-Pleno-yellowgreen?logo=FLUTTER">
+  <img align="center" src="https://img.shields.io/badge/KOTLIN-Junior-yellow?logo=KOTLIN">
+  <img align="center" src="https://img.shields.io/badge/VUE-Junior-yellow?logo=Vue.js">
   <br>
   <img align="center" src="https://img.shields.io/badge/MySQL-Database-blue?logo=MySQL">
   <img align="center" src="https://img.shields.io/badge/PgSQL-Database-blue?logo=PgSQL">
