@@ -8,9 +8,9 @@ Olá! Sou desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 
   <img align="center" src="https://img.shields.io/badge/KOTLIN-Junior-green?logo=KOTLIN">
   <img align="center" src="https://img.shields.io/badge/VUE-Junior-green?logo=Vue.js">
   <br>
-  <img align="center" src="https://img.shields.io/badge/MySQL-informational?logo=MySQL">
-  <img align="center" src="https://img.shields.io/badge/PgSQL-informational?logo=PostgreSQL">
-  <img align="center" src="https://img.shields.io/badge/SQLite-informational?logo=SQLite">
+  <img align="center" src="https://img.shields.io/badge/MySQL-inactive?logo=MySQL">
+  <img align="center" src="https://img.shields.io/badge/PgSQL-inactive?logo=PostgreSQL">
+  <img align="center" src="https://img.shields.io/badge/SQLite-inactive?logo=SQLite">
   <br>
   <img align="center" src="https://img.shields.io/badge/Docker-Tools-yellow?logo=Docker">
   <img align="center" src="https://img.shields.io/badge/Visual-yellow?logo=Visual Studio Code">
