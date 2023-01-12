@@ -6,7 +6,7 @@ Desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 9 anos em 
   <img align="center" src="https://img.shields.io/badge/PHP-Senior-green?logo=php">
   <img align="center" src="https://img.shields.io/badge/FLUTTER-Pleno-yellowgreen?logo=FLUTTER">
   <img align="center" src="https://img.shields.io/badge/KOTLIN-Junior-yellow?logo=KOTLIN">
-  <img align="center" src="https://img.shields.io/badge/VUE-Junior-yellow?logo=Vue.js">
+  <img align="center" src="https://img.shields.io/badge/VUE-Trainee-yellow?logo=Vue.js">
   <br>
   <img align="center" src="https://img.shields.io/badge/MySQL-Database-blue?logo=MySQL">
   <img align="center" src="https://img.shields.io/badge/PgSQL-Database-blue?logo=PgSQL">
