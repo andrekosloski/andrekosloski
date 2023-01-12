@@ -10,8 +10,12 @@
   <img align="center" src="https://img.shields.io/badge/SQLite-Database-blue?logo=SQLite">
 </div>
 
- <div style="display: inline_block" align="center"><br>
-  <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">
+ <div style="display: inline_block" align="center">
+  ![andrekosloski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrekosloski&theme=default&hide_border=true)
+</div>
+ <div style="display: inline_block" align="center">
+  <br>
+  <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">  
 </div>
 
 
