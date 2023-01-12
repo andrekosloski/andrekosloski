@@ -1,4 +1,3 @@
-## 🔨 Desenvolvendo
 <div style="display: inline_block" align="center"><br>
   <img align="center" src="https://img.shields.io/badge/PHP-Senior-green?logo=php">
   <img align="center" src="https://img.shields.io/badge/FLUTTER-Pleno-yellowgreen?logo=FLUTTER">
