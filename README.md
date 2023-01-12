@@ -1,6 +1,3 @@
-Desenvolvedor Full Stack, autodidata atuo profissionalmente a mais de 9 anos em aplicações integradas.  
-
-
 ## 🔨 Desenvolvendo
 <div style="display: inline_block" align="center"><br>
   <img align="center" src="https://img.shields.io/badge/PHP-Senior-green?logo=php">
