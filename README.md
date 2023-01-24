@@ -9,21 +9,27 @@
   <img align="center" src="https://img.shields.io/badge/SQLite-Database-blue?logo=SQLite">
 </div>
 
- <div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center">
   <br>
   <img aling="center"src="https://github-readme-streak-stats.herokuapp.com/?user=andrekosloski&theme=default&hide_border=true">  
 </div>
- <div style="display: inline_block" align="center">
+
+<div style="display: inline_block" align="center">
+  <br>
+  <img aling="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekosloski">  
+</div>
+
+
+<div style="display: inline_block" align="center">
   <br>
   <img align="center"src="https://github.com/andrekosloski/andrekosloski/blob/output/github-contribution-grid-snake.svg">  
 </div>
 
-
 ## 📖 Aperfeiçoando
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://img.shields.io/badge/question-Rede neural-orange">
-  <img align="center" src="https://img.shields.io/badge/study-Deep Learning-orange">
-  <img align="center" src="https://img.shields.io/badge/observant-AGI-orange">
+  <img align="center" src="https://img.shields.io/badge/working-Dashboard Interativa-orange">
+  <img align="center" src="https://img.shields.io/badge/study-Broadcast Service-orange">
+  <img align="center" src="https://img.shields.io/badge/observant-Firebase Firestore-orange">
 </div>
 
 <div style="display: inline_block" align="center"><br>
