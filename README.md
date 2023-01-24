@@ -14,11 +14,6 @@
   <img aling="center"src="https://github-readme-streak-stats.herokuapp.com/?user=andrekosloski&theme=default&hide_border=true">  
 </div>
 
-<div style="display: inline_block" align="center">
-  <br>
-  <img aling="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekosloski">  
-</div>
-
 
 <div style="display: inline_block" align="center">
   <br>
