@@ -3,7 +3,7 @@
   <br>
   <img src="https://img.shields.io/badge/coordinating-Sistema de importação dinâmica-orange">  
   <br>
-  <img src="https://img.shields.io/badge/study-Broadcast Service-orange">
+  <img src="https://img.shields.io/badge/study-WebSocket-orange">
   <br>
   <img  src="https://img.shields.io/badge/observant-Firebase Firestore-orange">
   <br>
